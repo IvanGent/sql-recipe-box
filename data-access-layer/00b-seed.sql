@@ -9,9 +9,6 @@
 
 -- YOUR CODE HERE
 
-GRANT ALL ON TABLES TO recipe_box_app;
-
-
 
 
 -- Create a table for the "recipes". It will need the following columns in it.
