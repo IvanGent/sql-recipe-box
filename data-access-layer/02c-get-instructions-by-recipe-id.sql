@@ -22,4 +22,4 @@
 SELECT list_order, specification
 FROM instructions
 ORDER BY list_order ASC
-WHERE ingredients.recipe_id = $1;
+WHERE instructions.recipe_id = $1;
